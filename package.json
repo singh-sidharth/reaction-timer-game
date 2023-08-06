@@ -38,6 +38,10 @@
     "last 2 versions",
     "not dead"
   ],
-  "keywords": [],
-  "description": ""
+  "keywords": [
+    "vue",
+    "vue3",
+    "javascript"
+  ],
+  "description": "A mouse click reaction timer mini game in Vue3"
 }
