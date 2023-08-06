@@ -1,4 +1,5 @@
-# t
+# Reaction Timer Game
+A minigame that measure your click reaction time in 10 ms intervals.
 
 ## Project setup
 ```
